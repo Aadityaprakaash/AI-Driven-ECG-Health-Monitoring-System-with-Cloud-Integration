@@ -18,5 +18,5 @@ final[1][1].pdf      | Complete manuscript and project report
 ecg_model.ipynb      | Transformer-based deep learning model training notebook                                             
 app.py               | Complete code (backend + frontend) with all integrations (Streamlit, voice assistant, Telegram API) 
 With_Streamlit_API   | Final working code version simplified for direct execution                                          
-short_demo.mp4       | A demonstration video showcasing the working of the system 
+short_demo.mp4       | A demonstration video showcasing the working of the system  
 
