@@ -62,7 +62,7 @@ A low-cost, real-time, AI-powered health monitoring system for arrhythmia detect
 
 ## ✨ Contributors
 
-- 👨‍💻 [Krishnakanth](https://github.com/krishnakanth-A) — AI + Embedded Developer
+- 👨‍💻 [Aaditya Prakaash J](https://github.com/Aadityaprakaash) — AI + Embedded Developer
 - 💬 Feel free to open issues or contribute improvements!
 
 ---
