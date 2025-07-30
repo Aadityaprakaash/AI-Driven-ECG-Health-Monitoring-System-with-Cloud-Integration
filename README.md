@@ -1,4 +1,4 @@
-# Realtime-ECG-Monitoring
+# AI-Driven ECG Health Monitoring System with Cloud Integration
 IoT + AI based real-time ECG classification system with voice assistant and Telegram alerts
 # ⚡ Realtime ECG Monitoring System Using IoT + AI
 
